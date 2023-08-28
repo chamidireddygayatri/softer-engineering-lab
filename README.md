@@ -1,1 +1,1 @@
-# softer-engineering-lab
+# software-engineering-lab
